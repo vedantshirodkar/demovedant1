@@ -2,4 +2,4 @@
 <br>
 this is my first demo repo
 
-author:-vedant shirodkar
+author:-vedant (shirodkar)
